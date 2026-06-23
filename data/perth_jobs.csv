@@ -1,0 +1,301 @@
+job_title,company,location,salary_aud,job_type,experience_years,skills_required,remote_option,date_posted
+Business Intelligence Analyst,Telstra,Subiaco,87000,Internship,3,"Hadoop, pandas, NLP",Yes,2026-04-19
+Data Analyst,Rio Tinto,Remote,82000,Part-time,6,"Deep Learning, NLP, Azure",Hybrid,2026-05-20
+Python Developer,Murdoch University,Bentley,94000,Contract,7,"REST APIs, pandas, FastAPI, Python, Docker, Machine Learning",Yes,2026-02-25
+Graduate Data Analyst,Curtin University,Hybrid - Perth,66000,Contract,1,"Excel, PyTorch, Power BI",Yes,2026-04-28
+Data Engineer,Curtin University,Hybrid - Perth,88000,Part-time,8,"Excel, Git, NumPy, Statistics, JavaScript, Node.js",Hybrid,2026-01-18
+Data Analyst,Wesfarmers,Midland,123000,Contract,3,"Docker, NumPy, Excel, Data Visualisation",No,2026-04-04
+Data Scientist,Woodside,Hybrid - Perth,104000,Part-time,7,"Deep Learning, R, pandas, Spark, Agile",Hybrid,2026-03-04
+Data Scientist,BHP,Fremantle,110000,Full-time,4,"pandas, JavaScript, Spark, Git, NLP, R",No,2026-04-13
+Machine Learning Engineer,Commonwealth Bank,Osborne Park,84000,Casual,4,"Agile, REST APIs, Communication, Spark",Hybrid,2026-04-28
+Data Scientist,HBF,Midland,97000,Internship,7,"NLP, Hadoop, Git, pandas",No,2026-04-03
+Junior Data Scientist,Murdoch University,Hybrid - Perth,60000,Full-time,0,"AWS, Excel, Docker, SQL, Power BI, Tableau, JavaScript",No,2026-04-08
+Junior ML Engineer,RAC WA,West Perth,70000,Contract,2,"pandas, Git, Data Visualisation, Python, R, Hadoop, Power BI",Yes,2026-03-17
+Python Developer,Fortescue,Subiaco,90000,Contract,3,"Python, Hadoop, Communication, pandas, Azure, Docker",Hybrid,2026-05-10
+Junior ML Engineer,Rio Tinto,Hybrid - Perth,62000,Contract,2,"TensorFlow, Docker, Machine Learning, Git",No,2026-01-05
+Junior Data Analyst,GovTech WA,Subiaco,67000,Internship,0,"NLP, SQL, Communication, REST APIs, Excel",Yes,2026-02-02
+Business Intelligence Analyst,Commonwealth Bank,West Perth,111000,Casual,8,"Machine Learning, pandas, Azure, Node.js, MongoDB, Deep Learning, Git",Hybrid,2026-04-06
+Software Engineer,RAC WA,Fremantle,139000,Internship,6,"MySQL, Power BI, NLP, Data Visualisation, Excel, scikit-learn, Python",Yes,2026-01-02
+Junior Data Analyst,Woodside,Remote,57000,Part-time,1,"Excel, Communication, SQL, Data Visualisation",No,2026-05-05
+Junior Data Scientist,GovTech WA,Fremantle,73000,Casual,2,"Hadoop, Agile, Communication, REST APIs",No,2026-02-18
+Junior Data Analyst,Wesfarmers,Perth CBD,58000,Casual,2,"MongoDB, TensorFlow, Agile, Data Visualisation, MySQL, Hadoop, SQL, R",Hybrid,2026-03-28
+Graduate Data Analyst,ANZ Bank,West Perth,59000,Casual,1,"Deep Learning, Git, MySQL, Tableau",Yes,2026-01-20
+Software Engineer,Murdoch University,Osborne Park,133000,Casual,3,"Power BI, SQL, JavaScript, Git, Python, Excel, NLP",Yes,2026-04-13
+API Developer,Small Tech Startup,West Perth,84000,Casual,8,"PyTorch, Python, pandas, Agile",Hybrid,2026-05-23
+Business Intelligence Analyst,RAC WA,Perth CBD,127000,Contract,7,"Tableau, Deep Learning, NumPy, Communication, SQL, REST APIs",Yes,2026-01-13
+Junior ML Engineer,Woodside,Hybrid - Perth,71000,Full-time,0,"Agile, Data Visualisation, Azure, Machine Learning, SQL, Communication, Excel",Hybrid,2026-03-02
+Python Developer,HBF,Hybrid - Perth,88000,Internship,7,"NLP, REST APIs, Node.js, SQL, Data Visualisation, Excel, MongoDB",No,2026-03-08
+Junior Data Scientist,KPMG,Osborne Park,65000,Contract,2,"pandas, PyTorch, Tableau, R",Yes,2026-01-03
+Software Engineer,Woodside,Fremantle,121000,Contract,4,"Power BI, Excel, Git, Deep Learning, Azure, pandas, Tableau",No,2026-02-10
+Software Engineer,RAC WA,West Perth,135000,Full-time,7,"Spark, NumPy, Node.js, FastAPI, JavaScript, Azure, Python",Yes,2026-03-09
+Junior Data Analyst,Accenture,Remote,59000,Casual,0,"Git, Tableau, pandas, NumPy, Node.js, Deep Learning, Spark, scikit-learn",No,2026-01-14
+Junior Data Analyst,Accenture,Joondalup,69000,Casual,2,"SQL, Python, scikit-learn, Docker, Tableau",Hybrid,2026-04-20
+Data Engineer,RAC WA,Perth CBD,81000,Contract,3,"Excel, Communication, Spark",Hybrid,2026-05-22
+Data Scientist,BHP,Bentley,108000,Part-time,8,"SQL, NumPy, TensorFlow, Communication",Hybrid,2026-03-05
+Business Intelligence Analyst,Telstra,Fremantle,87000,Part-time,6,"Docker, Git, Communication, Data Visualisation, MongoDB",Yes,2026-04-16
+Data Analyst,ANZ Bank,Subiaco,92000,Casual,4,"Agile, scikit-learn, FastAPI, MongoDB, Data Visualisation, R, Hadoop, NLP",Yes,2026-05-01
+Junior Data Scientist,Commonwealth Bank,Midland,62000,Contract,0,"TensorFlow, NumPy, Statistics, FastAPI, NLP, Data Visualisation",No,2026-01-18
+Graduate Data Analyst,IBM,Perth CBD,64000,Full-time,2,"JavaScript, Azure, PyTorch, R, Statistics",No,2026-02-15
+Junior ML Engineer,IBM,Midland,64000,Internship,1,"Power BI, Node.js, MongoDB",Hybrid,2026-01-30
+Python Developer,RAC WA,Fremantle,139000,Contract,8,"Deep Learning, pandas, SQL, Spark, MongoDB, Python, Azure",No,2026-01-18
+Business Intelligence Analyst,Murdoch University,Bentley,102000,Casual,4,"scikit-learn, R, Data Visualisation, Power BI, Hadoop, NumPy, Azure",Hybrid,2026-03-17
+Data Engineer,Water Corporation,Hybrid - Perth,88000,Contract,3,"MongoDB, R, PyTorch, Hadoop",No,2026-05-21
+Full Stack Developer,IBM,Osborne Park,80000,Casual,6,"NumPy, Deep Learning, MongoDB, FastAPI, REST APIs",No,2026-02-24
+Data Engineer,Woodside,Fremantle,111000,Contract,4,"Machine Learning, R, Excel, NumPy, Azure, Communication, JavaScript, Node.js",Yes,2026-02-20
+Data Scientist,Woodside,Osborne Park,82000,Casual,8,"NLP, AWS, Node.js",Hybrid,2026-05-28
+Junior Data Scientist,Murdoch University,Fremantle,68000,Part-time,0,"PyTorch, NLP, Tableau, JavaScript, Spark, Python",Hybrid,2026-05-13
+Software Engineer,RAC WA,Hybrid - Perth,83000,Contract,6,"NLP, Data Visualisation, Power BI, MySQL, Tableau, Statistics, R",No,2026-05-10
+Python Developer,Deloitte,West Perth,134000,Internship,8,"MySQL, Communication, Machine Learning, Hadoop, AWS, Agile, pandas",No,2026-03-03
+Machine Learning Engineer,IBM,Bentley,109000,Internship,4,"Spark, NumPy, NLP",Yes,2026-02-05
+Data Scientist,IBM,Remote,95000,Casual,5,"Spark, Tableau, Agile, Deep Learning, Excel, MongoDB",No,2026-01-16
+Junior Data Scientist,UWA,Osborne Park,69000,Full-time,2,"Communication, Docker, REST APIs, Spark, Python, Agile",No,2026-03-18
+Graduate Data Analyst,GovTech WA,Fremantle,68000,Contract,0,"Git, Hadoop, Communication, Agile, FastAPI, Node.js",No,2026-05-05
+Data Analyst,Small Tech Startup,Joondalup,105000,Internship,8,"R, FastAPI, PyTorch, Hadoop, Machine Learning",Hybrid,2026-01-07
+API Developer,Small Tech Startup,Joondalup,106000,Full-time,8,"REST APIs, R, Python, Excel, JavaScript, MongoDB, Tableau",No,2026-04-08
+Backend Developer,Murdoch University,West Perth,94000,Full-time,8,"scikit-learn, Agile, Docker, PyTorch, pandas, Data Visualisation",No,2026-01-05
+AI Engineer,BHP,Perth CBD,115000,Part-time,2,"TensorFlow, NLP, JavaScript",Yes,2026-01-06
+Junior ML Engineer,Commonwealth Bank,Osborne Park,60000,Contract,2,"Tableau, AWS, R, Power BI",No,2026-02-12
+Junior ML Engineer,KPMG,Hybrid - Perth,75000,Casual,0,"Spark, Power BI, Docker, Statistics, Machine Learning, NumPy, Communication, REST APIs",No,2026-02-20
+Junior Data Analyst,Wesfarmers,Hybrid - Perth,74000,Full-time,2,"Statistics, JavaScript, NLP, Power BI, Spark, Docker, NumPy, R",No,2026-05-17
+Python Developer,Murdoch University,Osborne Park,123000,Full-time,8,"Excel, Azure, JavaScript, scikit-learn, Python",No,2026-04-03
+Business Intelligence Analyst,Accenture,Hybrid - Perth,138000,Internship,7,"Spark, Tableau, MongoDB, Machine Learning, Hadoop, Azure",No,2026-04-30
+Python Developer,Small Tech Startup,Hybrid - Perth,134000,Internship,8,"REST APIs, pandas, scikit-learn, NLP, Excel, Communication, MySQL, Statistics",Hybrid,2026-04-08
+Backend Developer,Accenture,Bentley,82000,Contract,8,"Data Visualisation, scikit-learn, Machine Learning, AWS, Deep Learning, TensorFlow",Hybrid,2026-03-12
+Data Engineer,Deloitte,Osborne Park,81000,Casual,8,"Deep Learning, Excel, NLP, Hadoop, MongoDB, AWS, Git",No,2026-01-05
+Junior Data Analyst,HBF,Bentley,65000,Casual,2,"PyTorch, Spark, NLP, NumPy",Hybrid,2026-05-16
+Backend Developer,Wesfarmers,Fremantle,108000,Contract,3,"Git, scikit-learn, TensorFlow, Spark, MySQL, pandas, NumPy, Docker",Yes,2026-05-18
+Graduate Data Analyst,HBF,Remote,61000,Internship,2,"Deep Learning, Hadoop, AWS, pandas",No,2026-01-26
+Full Stack Developer,RAC WA,Joondalup,93000,Contract,7,"NLP, TensorFlow, Machine Learning, NumPy, Python",Yes,2026-01-14
+Data Engineer,GovTech WA,Osborne Park,99000,Casual,4,"Tableau, JavaScript, Data Visualisation, Docker, AWS, Power BI, Python, REST APIs",No,2026-02-17
+Data Analyst,BHP,Joondalup,97000,Part-time,6,"Power BI, Statistics, Excel, PyTorch, AWS, Data Visualisation",Hybrid,2026-03-19
+Junior Data Analyst,Water Corporation,Hybrid - Perth,63000,Part-time,2,"Git, Docker, MongoDB",Hybrid,2026-04-08
+Software Engineer,BHP,Hybrid - Perth,140000,Full-time,6,"NumPy, Data Visualisation, REST APIs, MongoDB, Agile, Communication",Yes,2026-02-24
+Machine Learning Engineer,ANZ Bank,Perth CBD,123000,Casual,2,"Machine Learning, NLP, Git",No,2026-05-01
+Machine Learning Engineer,Deloitte,West Perth,82000,Internship,2,"NumPy, Spark, Data Visualisation, MySQL",Hybrid,2026-02-20
+Python Developer,KPMG,Hybrid - Perth,88000,Internship,3,"NLP, JavaScript, Tableau, pandas, Data Visualisation, Excel, SQL",No,2026-04-23
+Junior Data Analyst,Water Corporation,Perth CBD,70000,Casual,0,"NumPy, Spark, PyTorch, pandas, Azure, Git, AWS, MySQL",Hybrid,2026-03-24
+Junior ML Engineer,HBF,Perth CBD,63000,Contract,2,"Excel, NLP, R",Hybrid,2026-01-11
+Graduate Data Analyst,GovTech WA,Subiaco,61000,Casual,1,"Azure, JavaScript, MySQL, pandas, Machine Learning, REST APIs",No,2026-04-15
+Backend Developer,UWA,Remote,101000,Full-time,7,"Power BI, Data Visualisation, Machine Learning, scikit-learn, MongoDB, Spark, AWS, NumPy",No,2026-01-23
+Backend Developer,Rio Tinto,Remote,97000,Casual,8,"Power BI, Docker, PyTorch, Data Visualisation, Azure",No,2026-01-14
+Junior Data Scientist,Commonwealth Bank,West Perth,72000,Internship,0,"Node.js, Docker, AWS, JavaScript, MySQL",Yes,2026-03-15
+Software Engineer,RAC WA,Perth CBD,138000,Internship,4,"AWS, Power BI, Python, JavaScript, Node.js, NLP, Spark, Machine Learning",No,2026-01-24
+Junior Data Scientist,Fortescue,West Perth,59000,Casual,1,"Power BI, JavaScript, Statistics, Tableau, AWS, Spark",No,2026-05-01
+Junior Data Scientist,Accenture,Midland,70000,Contract,0,"Tableau, PyTorch, Deep Learning, Node.js, Azure, Hadoop, Agile",Hybrid,2026-03-10
+Full Stack Developer,Telstra,Osborne Park,80000,Internship,5,"Hadoop, NumPy, Statistics, REST APIs, R",No,2026-03-30
+Backend Developer,Deloitte,Midland,116000,Full-time,5,"PyTorch, MySQL, scikit-learn, Deep Learning, Spark, NLP, REST APIs",No,2026-05-02
+AI Engineer,BHP,Joondalup,140000,Internship,5,"PyTorch, R, FastAPI, Statistics, JavaScript, Tableau",Hybrid,2026-03-26
+Full Stack Developer,Telstra,Subiaco,87000,Casual,5,"Power BI, Azure, MySQL, Python, Hadoop, Tableau",No,2026-03-28
+Junior ML Engineer,GovTech WA,Remote,68000,Full-time,2,"Excel, Data Visualisation, scikit-learn, R, Git, PyTorch, Communication, JavaScript",Hybrid,2026-01-18
+Junior Data Scientist,Wesfarmers,Osborne Park,64000,Part-time,2,"Hadoop, Excel, MongoDB, Power BI",Hybrid,2026-03-18
+API Developer,Curtin University,Bentley,82000,Casual,4,"scikit-learn, FastAPI, SQL",Yes,2026-03-04
+Data Engineer,UWA,Hybrid - Perth,107000,Part-time,8,"R, FastAPI, Machine Learning, Data Visualisation, Statistics, Excel, Node.js",No,2026-05-30
+Data Scientist,Small Tech Startup,West Perth,95000,Internship,8,"JavaScript, pandas, MySQL, Communication, R, Python",Yes,2026-01-19
+Software Engineer,UWA,Osborne Park,103000,Full-time,3,"NumPy, JavaScript, MongoDB, Spark, pandas, MySQL, Agile",Yes,2026-04-08
+Junior ML Engineer,HBF,Perth CBD,67000,Internship,0,"NumPy, Spark, Agile, Python, R, PyTorch, pandas",Hybrid,2026-05-08
+Full Stack Developer,Commonwealth Bank,Hybrid - Perth,139000,Contract,3,"Docker, FastAPI, NLP, Node.js, TensorFlow",Hybrid,2026-02-05
+Business Intelligence Analyst,Telstra,Subiaco,86000,Contract,7,"JavaScript, SQL, NumPy, FastAPI, MySQL, Communication, REST APIs, TensorFlow",No,2026-04-17
+Data Scientist,Fortescue,West Perth,93000,Part-time,6,"FastAPI, Git, Communication, TensorFlow",No,2026-05-04
+Graduate Data Analyst,UWA,Remote,65000,Contract,2,"Data Visualisation, scikit-learn, FastAPI, Power BI, MySQL, Excel, Tableau, NLP",Yes,2026-04-12
+Data Analyst,UWA,Bentley,97000,Full-time,6,"Power BI, MySQL, TensorFlow, R, Hadoop, Statistics, pandas",Hybrid,2026-03-01
+Software Engineer,Small Tech Startup,West Perth,82000,Casual,7,"Communication, Git, scikit-learn, Node.js, NLP, JavaScript, Excel",Yes,2026-02-05
+Data Analyst,UWA,Osborne Park,82000,Contract,3,"AWS, Power BI, NLP, Communication, Git",Hybrid,2026-05-19
+Python Developer,BHP,Bentley,118000,Part-time,4,"Hadoop, Tableau, MongoDB, JavaScript, Power BI, AWS, Node.js, Data Visualisation",No,2026-04-24
+Junior Data Scientist,Curtin University,Perth CBD,67000,Casual,2,"R, TensorFlow, Git",No,2026-02-18
+Junior Data Analyst,Water Corporation,Perth CBD,70000,Full-time,2,"R, Deep Learning, JavaScript",No,2026-03-04
+Data Scientist,Deloitte,Bentley,132000,Part-time,3,"Deep Learning, Excel, Statistics, Docker, Git, Agile, REST APIs",Hybrid,2026-01-01
+Machine Learning Engineer,Wesfarmers,Perth CBD,136000,Part-time,3,"Tableau, Git, pandas, FastAPI",Yes,2026-04-02
+Graduate Data Analyst,Fortescue,Subiaco,63000,Full-time,1,"scikit-learn, Python, Machine Learning, pandas, SQL, Tableau, Hadoop",No,2026-04-25
+Graduate Data Analyst,Fortescue,West Perth,67000,Casual,2,"REST APIs, Power BI, MySQL, Azure, NLP, Node.js, SQL",Hybrid,2026-01-08
+Data Analyst,Woodside,Bentley,111000,Internship,2,"MongoDB, R, Power BI, AWS, Spark, MySQL",Yes,2026-01-17
+Data Scientist,KPMG,Osborne Park,98000,Internship,6,"JavaScript, REST APIs, Git, Spark, scikit-learn, PyTorch, Node.js",Hybrid,2026-04-21
+Junior Data Analyst,Murdoch University,Bentley,59000,Casual,0,"JavaScript, Communication, Docker, Git, Hadoop, Deep Learning, MongoDB, MySQL",No,2026-04-17
+AI Engineer,GovTech WA,Subiaco,86000,Full-time,3,"MongoDB, scikit-learn, R, pandas, TensorFlow",Yes,2026-01-24
+Python Developer,IBM,Subiaco,86000,Casual,6,"Hadoop, TensorFlow, FastAPI, Tableau, Git, SQL, REST APIs, Data Visualisation",No,2026-04-19
+Full Stack Developer,HBF,Remote,127000,Part-time,2,"NumPy, Node.js, TensorFlow",Yes,2026-05-04
+Junior Data Scientist,HBF,Fremantle,59000,Casual,1,"Data Visualisation, Git, TensorFlow, Power BI, Docker",Hybrid,2026-05-23
+Data Analyst,Curtin University,Perth CBD,120000,Part-time,4,"Statistics, Spark, pandas, Python, Machine Learning, Data Visualisation, Communication, NumPy",Yes,2026-05-25
+Business Intelligence Analyst,Woodside,Remote,106000,Part-time,2,"Tableau, Hadoop, JavaScript",No,2026-04-18
+Software Engineer,HBF,Hybrid - Perth,102000,Full-time,8,"TensorFlow, NumPy, Hadoop, scikit-learn",Yes,2026-02-09
+Data Scientist,Water Corporation,Osborne Park,129000,Casual,5,"SQL, R, Excel, pandas, MySQL, Communication, MongoDB",No,2026-02-25
+Graduate Data Analyst,HBF,Osborne Park,72000,Internship,1,"TensorFlow, MongoDB, Power BI",Hybrid,2026-03-20
+Data Analyst,Telstra,West Perth,94000,Contract,8,"Node.js, SQL, Python, Deep Learning, NumPy, Statistics",No,2026-01-31
+Data Analyst,Curtin University,Subiaco,113000,Casual,6,"MongoDB, Machine Learning, Tableau, PyTorch, Git, Spark, NLP, Azure",Hybrid,2026-01-11
+Python Developer,UWA,Midland,81000,Contract,6,"Agile, Excel, Data Visualisation, scikit-learn, REST APIs, MongoDB",Yes,2026-04-14
+Data Analyst,Curtin University,Subiaco,101000,Casual,7,"FastAPI, Node.js, MySQL, Statistics",Yes,2026-03-04
+Python Developer,IBM,Joondalup,119000,Full-time,3,"Azure, Excel, PyTorch, NumPy, Hadoop, scikit-learn",Hybrid,2026-01-30
+Data Engineer,Telstra,Fremantle,113000,Full-time,8,"Communication, Docker, TensorFlow, Hadoop",Yes,2026-03-07
+Junior Data Scientist,Small Tech Startup,Hybrid - Perth,61000,Internship,1,"Tableau, Docker, Communication, JavaScript, Excel, Machine Learning, Statistics",No,2026-05-25
+Business Intelligence Analyst,Small Tech Startup,West Perth,122000,Contract,5,"scikit-learn, Data Visualisation, JavaScript, Agile, Tableau, MySQL, Excel",Hybrid,2026-01-15
+Backend Developer,Curtin University,West Perth,113000,Full-time,2,"NumPy, MySQL, SQL",Hybrid,2026-01-24
+Junior ML Engineer,HBF,Fremantle,74000,Contract,1,"PyTorch, MySQL, REST APIs, Git, FastAPI, Hadoop, SQL",Hybrid,2026-05-02
+Data Engineer,IBM,Subiaco,90000,Internship,8,"MySQL, Power BI, FastAPI",Hybrid,2026-02-14
+Data Analyst,UWA,Midland,96000,Contract,4,"MySQL, Agile, Azure, Data Visualisation, Node.js, Machine Learning, TensorFlow, Hadoop",Hybrid,2026-01-14
+Graduate Data Analyst,UWA,West Perth,66000,Contract,2,"scikit-learn, Power BI, Git",Hybrid,2026-02-08
+Backend Developer,Telstra,Hybrid - Perth,85000,Full-time,5,"R, Tableau, TensorFlow, NumPy, JavaScript, Spark, Agile",No,2026-05-24
+Python Developer,Fortescue,Subiaco,122000,Casual,7,"Statistics, Tableau, R, Spark, Hadoop",Hybrid,2026-04-03
+Data Analyst,Deloitte,Joondalup,104000,Part-time,3,"Machine Learning, Deep Learning, scikit-learn, Docker, AWS",Yes,2026-03-17
+Full Stack Developer,Fortescue,Perth CBD,132000,Contract,8,"Azure, Docker, Git",Hybrid,2026-02-03
+Junior ML Engineer,ANZ Bank,Osborne Park,67000,Full-time,2,"Machine Learning, Statistics, Spark, Docker",No,2026-04-04
+Business Intelligence Analyst,Small Tech Startup,Fremantle,127000,Internship,7,"MySQL, Node.js, NumPy, Docker",Yes,2026-03-21
+Graduate Data Analyst,KPMG,Midland,70000,Internship,1,"TensorFlow, R, REST APIs, MySQL",Hybrid,2026-04-18
+Data Scientist,BHP,Osborne Park,134000,Contract,4,"FastAPI, Node.js, Tableau, Data Visualisation",Hybrid,2026-01-27
+AI Engineer,Fortescue,Joondalup,135000,Casual,5,"Data Visualisation, Power BI, NumPy, Excel, Docker, Machine Learning, pandas",Yes,2026-02-26
+Full Stack Developer,Curtin University,Fremantle,110000,Casual,6,"Agile, Python, MongoDB, SQL, PyTorch",Yes,2026-04-06
+Junior Data Scientist,Telstra,Joondalup,56000,Full-time,1,"Agile, Power BI, Statistics, Spark, JavaScript",No,2026-05-01
+AI Engineer,Rio Tinto,Subiaco,134000,Full-time,6,"Docker, Spark, AWS, MySQL",No,2026-02-25
+Full Stack Developer,KPMG,Subiaco,90000,Full-time,3,"Hadoop, Node.js, Azure, MongoDB, Power BI, Docker, NumPy",Yes,2026-04-18
+Business Intelligence Analyst,Fortescue,Hybrid - Perth,132000,Part-time,2,"MySQL, Excel, Power BI, Statistics, AWS, Node.js, Git",Hybrid,2026-02-06
+Machine Learning Engineer,Murdoch University,Joondalup,108000,Full-time,6,"Node.js, TensorFlow, NLP",Hybrid,2026-04-03
+Junior Data Analyst,UWA,Bentley,72000,Contract,0,"Azure, FastAPI, Agile, Git, Python, PyTorch, AWS",Hybrid,2026-01-05
+Backend Developer,Wesfarmers,Hybrid - Perth,132000,Contract,7,"TensorFlow, NLP, Hadoop",Yes,2026-01-12
+Backend Developer,GovTech WA,Joondalup,116000,Part-time,5,"Statistics, JavaScript, Machine Learning, Docker, R",Yes,2026-04-28
+Data Analyst,IBM,West Perth,99000,Internship,2,"SQL, FastAPI, Deep Learning, Communication",No,2026-05-20
+Software Engineer,Curtin University,Perth CBD,97000,Contract,4,"Docker, JavaScript, Deep Learning",No,2026-02-01
+Graduate Data Analyst,GovTech WA,Osborne Park,67000,Contract,0,"Communication, PyTorch, Hadoop, MySQL, Agile, scikit-learn",Hybrid,2026-03-10
+Graduate Data Analyst,Woodside,Bentley,58000,Contract,0,"MongoDB, Excel, Agile, Node.js, Machine Learning, Git, NumPy, scikit-learn",No,2026-04-25
+Junior ML Engineer,Curtin University,Hybrid - Perth,69000,Casual,2,"Spark, MySQL, TensorFlow, SQL",No,2026-01-15
+Junior Data Analyst,Telstra,Hybrid - Perth,68000,Casual,0,"Azure, FastAPI, Hadoop, R, Machine Learning",Yes,2026-02-02
+Junior Data Analyst,Curtin University,Bentley,63000,Casual,1,"TensorFlow, Agile, PyTorch, REST APIs, SQL, Node.js, Tableau, R",Yes,2026-05-27
+Data Scientist,Rio Tinto,Joondalup,115000,Casual,2,"PyTorch, scikit-learn, JavaScript, pandas, NLP",Hybrid,2026-04-10
+API Developer,Commonwealth Bank,Hybrid - Perth,117000,Contract,5,"pandas, Docker, Spark",Hybrid,2026-05-06
+Junior Data Scientist,Small Tech Startup,Subiaco,59000,Contract,2,"Data Visualisation, Excel, MySQL, Machine Learning",Hybrid,2026-03-30
+AI Engineer,ANZ Bank,Bentley,84000,Internship,7,"Git, NumPy, Communication, Machine Learning, Spark, FastAPI, Docker",Yes,2026-02-01
+Junior Data Scientist,HBF,Bentley,60000,Casual,2,"FastAPI, AWS, Python, TensorFlow",Hybrid,2026-02-03
+Junior ML Engineer,GovTech WA,Remote,58000,Casual,2,"NumPy, PyTorch, Spark",No,2026-05-28
+Junior Data Analyst,Telstra,Remote,59000,Internship,1,"JavaScript, Excel, MySQL, R, Azure",Yes,2026-02-03
+Python Developer,KPMG,Joondalup,113000,Part-time,3,"Statistics, Power BI, Azure",No,2026-02-27
+Backend Developer,Accenture,Joondalup,114000,Contract,6,"Data Visualisation, Excel, pandas, Deep Learning, JavaScript",Hybrid,2026-05-17
+Junior Data Analyst,HBF,Perth CBD,71000,Full-time,1,"Machine Learning, REST APIs, Communication, Tableau, Agile, R, Node.js, Hadoop",Yes,2026-01-12
+Business Intelligence Analyst,Rio Tinto,Osborne Park,131000,Internship,7,"pandas, JavaScript, Deep Learning, Docker, REST APIs, MongoDB, Node.js",No,2026-03-19
+Software Engineer,GovTech WA,Osborne Park,96000,Part-time,5,"PyTorch, NumPy, MySQL, Excel, Spark, SQL, Machine Learning, Data Visualisation",No,2026-02-06
+Backend Developer,Wesfarmers,Bentley,136000,Part-time,6,"scikit-learn, Hadoop, Data Visualisation, TensorFlow, PyTorch, Tableau, Statistics, Azure",No,2026-02-01
+Machine Learning Engineer,Water Corporation,Midland,109000,Part-time,5,"Tableau, Power BI, SQL, NumPy",Yes,2026-03-25
+API Developer,GovTech WA,Perth CBD,118000,Full-time,4,"scikit-learn, Deep Learning, Docker, Machine Learning, AWS, Azure, MySQL, FastAPI",No,2026-05-10
+Software Engineer,Water Corporation,Osborne Park,96000,Contract,5,"REST APIs, TensorFlow, SQL, NumPy",Hybrid,2026-01-03
+Full Stack Developer,Curtin University,Perth CBD,87000,Casual,5,"Tableau, Communication, pandas, Hadoop, TensorFlow, Docker",Yes,2026-05-26
+Data Engineer,RAC WA,West Perth,93000,Internship,5,"Git, NumPy, Excel, PyTorch, Azure",Hybrid,2026-01-31
+Data Scientist,Commonwealth Bank,Hybrid - Perth,86000,Internship,3,"TensorFlow, FastAPI, scikit-learn, Git, Agile, Docker",No,2026-05-09
+Data Analyst,GovTech WA,Remote,83000,Casual,8,"Tableau, Spark, scikit-learn",Yes,2026-05-12
+Data Scientist,Fortescue,Remote,101000,Internship,4,"scikit-learn, Machine Learning, PyTorch, Node.js, Hadoop, NumPy, REST APIs",No,2026-05-25
+Machine Learning Engineer,Murdoch University,Hybrid - Perth,111000,Contract,2,"TensorFlow, scikit-learn, R",Hybrid,2026-01-07
+Junior ML Engineer,BHP,Hybrid - Perth,71000,Casual,2,"JavaScript, FastAPI, Docker, REST APIs, NLP",Yes,2026-05-15
+Business Intelligence Analyst,Wesfarmers,Fremantle,127000,Full-time,6,"Docker, Statistics, PyTorch, Tableau, R, NLP, SQL",No,2026-03-22
+Python Developer,BHP,Joondalup,90000,Internship,5,"Spark, Deep Learning, MongoDB, Azure, Docker, Node.js",Yes,2026-05-24
+Backend Developer,RAC WA,Bentley,123000,Contract,4,"Azure, PyTorch, scikit-learn, Machine Learning, MySQL, Git",Hybrid,2026-05-04
+Junior Data Scientist,GovTech WA,Bentley,63000,Casual,0,"Git, NumPy, NLP, Docker, Spark",No,2026-05-24
+API Developer,Curtin University,Joondalup,132000,Contract,8,"pandas, NumPy, Power BI, REST APIs, R, Git, PyTorch, Hadoop",Yes,2026-03-15
+AI Engineer,Commonwealth Bank,Fremantle,85000,Internship,5,"Agile, MySQL, JavaScript, pandas, Hadoop",No,2026-05-24
+AI Engineer,Deloitte,Perth CBD,98000,Internship,3,"Power BI, Node.js, Hadoop, REST APIs",Yes,2026-03-01
+Data Analyst,Rio Tinto,Remote,87000,Part-time,3,"scikit-learn, Spark, AWS, Power BI, R, Docker",No,2026-05-02
+Software Engineer,Woodside,Hybrid - Perth,123000,Part-time,2,"Docker, NumPy, scikit-learn, JavaScript",Hybrid,2026-01-10
+API Developer,KPMG,Perth CBD,91000,Full-time,3,"Communication, Statistics, Machine Learning, SQL, PyTorch, AWS",No,2026-05-26
+Junior ML Engineer,Telstra,Remote,59000,Casual,1,"NumPy, MySQL, JavaScript, Git, Azure",No,2026-02-19
+Graduate Data Analyst,ANZ Bank,Perth CBD,59000,Contract,2,"Machine Learning, Hadoop, MySQL, JavaScript, pandas",No,2026-05-26
+Business Intelligence Analyst,Murdoch University,Remote,130000,Contract,5,"Machine Learning, Node.js, Data Visualisation, JavaScript",Yes,2026-04-13
+Business Intelligence Analyst,Rio Tinto,West Perth,86000,Casual,3,"Tableau, AWS, scikit-learn, Agile",Yes,2026-04-25
+Graduate Data Analyst,Curtin University,Fremantle,64000,Full-time,2,"NumPy, REST APIs, Hadoop, Python, pandas",Hybrid,2026-01-31
+Software Engineer,KPMG,Subiaco,100000,Contract,7,"PyTorch, R, Azure, Agile",No,2026-02-26
+Junior Data Scientist,RAC WA,Osborne Park,59000,Internship,2,"Tableau, MySQL, Hadoop, Node.js, TensorFlow, MongoDB",Hybrid,2026-02-25
+Graduate Data Analyst,Curtin University,Subiaco,63000,Internship,2,"Docker, Node.js, Data Visualisation, FastAPI, Excel, Azure, MySQL, Agile",Yes,2026-01-16
+Full Stack Developer,Wesfarmers,Fremantle,116000,Internship,5,"Deep Learning, REST APIs, Git, Tableau, Machine Learning, scikit-learn, Azure",No,2026-01-24
+API Developer,HBF,Perth CBD,113000,Internship,5,"FastAPI, SQL, MySQL, Tableau, Azure, MongoDB",No,2026-03-20
+AI Engineer,BHP,Midland,81000,Contract,2,"pandas, Statistics, Python, Hadoop, Deep Learning, REST APIs",Hybrid,2026-01-17
+Data Engineer,Murdoch University,Joondalup,84000,Part-time,4,"Agile, AWS, SQL",Hybrid,2026-04-18
+Backend Developer,RAC WA,Joondalup,138000,Contract,7,"MySQL, Data Visualisation, PyTorch, Communication, Excel, R",Yes,2026-02-15
+Data Engineer,Small Tech Startup,Remote,106000,Casual,4,"Tableau, Hadoop, NLP, Statistics, Python, Docker, FastAPI",Hybrid,2026-04-08
+Full Stack Developer,Wesfarmers,Perth CBD,95000,Casual,3,"MySQL, TensorFlow, Tableau, pandas",Hybrid,2026-01-05
+Junior Data Scientist,Water Corporation,Perth CBD,62000,Part-time,1,"Power BI, Node.js, SQL",Hybrid,2026-01-12
+Python Developer,BHP,Joondalup,109000,Internship,8,"Git, Deep Learning, Docker, Data Visualisation",No,2026-03-01
+Full Stack Developer,Telstra,Remote,128000,Part-time,4,"scikit-learn, REST APIs, Node.js, Docker, R, Agile, NLP",No,2026-03-18
+Machine Learning Engineer,GovTech WA,Perth CBD,84000,Contract,6,"REST APIs, Communication, Hadoop, Machine Learning, JavaScript, R, MongoDB",Hybrid,2026-04-08
+Graduate Data Analyst,RAC WA,Osborne Park,72000,Part-time,0,"Spark, MongoDB, Tableau, NumPy, PyTorch",Yes,2026-03-18
+Full Stack Developer,Murdoch University,Midland,126000,Internship,6,"FastAPI, MySQL, Agile, SQL",Hybrid,2026-02-04
+Python Developer,Curtin University,Subiaco,96000,Internship,5,"Deep Learning, scikit-learn, JavaScript, Excel, Agile",Hybrid,2026-02-18
+Data Analyst,HBF,Remote,98000,Part-time,8,"R, Node.js, Communication, SQL, Excel, Deep Learning",No,2026-02-23
+Full Stack Developer,GovTech WA,Fremantle,139000,Internship,2,"NumPy, Agile, Python, Deep Learning, Hadoop",Hybrid,2026-02-22
+Python Developer,Small Tech Startup,Remote,140000,Contract,5,"Git, scikit-learn, Docker, NumPy",No,2026-03-08
+Backend Developer,IBM,Fremantle,114000,Contract,8,"MySQL, Power BI, FastAPI, Hadoop, AWS, Docker",No,2026-04-16
+Data Analyst,HBF,Hybrid - Perth,117000,Casual,6,"Hadoop, Tableau, Python, pandas",No,2026-02-09
+Junior Data Scientist,RAC WA,Bentley,66000,Contract,1,"PyTorch, REST APIs, Statistics, NLP",No,2026-05-06
+Software Engineer,BHP,Remote,91000,Full-time,6,"FastAPI, TensorFlow, Machine Learning, Tableau, Hadoop, Git, AWS, Data Visualisation",Yes,2026-01-13
+Graduate Data Analyst,Rio Tinto,Fremantle,55000,Internship,0,"Tableau, Statistics, JavaScript, NLP, Excel, Spark",No,2026-04-06
+Data Analyst,Murdoch University,Perth CBD,120000,Full-time,6,"R, Node.js, AWS, Agile, Data Visualisation, Python, Docker, Git",Hybrid,2026-03-12
+Data Engineer,Murdoch University,Joondalup,99000,Full-time,7,"Azure, Statistics, Spark",Yes,2026-05-15
+Data Scientist,Accenture,Midland,96000,Full-time,4,"Node.js, Azure, pandas, Statistics",No,2026-04-14
+Software Engineer,Woodside,Perth CBD,117000,Full-time,8,"Spark, NLP, NumPy, R",No,2026-04-08
+Python Developer,Murdoch University,Bentley,116000,Internship,5,"SQL, JavaScript, Python, Spark, Machine Learning, Excel",Yes,2026-05-16
+API Developer,GovTech WA,West Perth,83000,Full-time,6,"Deep Learning, Communication, Data Visualisation, Spark",Yes,2026-03-13
+API Developer,UWA,Subiaco,116000,Contract,3,"R, SQL, Machine Learning, scikit-learn, Python, Deep Learning, REST APIs",Yes,2026-05-25
+Junior Data Scientist,Telstra,Subiaco,74000,Internship,2,"R, Communication, Git, scikit-learn, PyTorch, Docker",Hybrid,2026-03-30
+Data Analyst,Water Corporation,Midland,86000,Contract,6,"NLP, Statistics, Excel, scikit-learn, Node.js, Docker",Yes,2026-03-11
+Graduate Data Analyst,HBF,Midland,70000,Full-time,2,"NLP, TensorFlow, Git, PyTorch, MongoDB, Machine Learning",Hybrid,2026-03-17
+Graduate Data Analyst,UWA,Bentley,63000,Contract,2,"Excel, Agile, pandas, Tableau, PyTorch, Spark, JavaScript, Statistics",Yes,2026-01-24
+Data Analyst,Murdoch University,Osborne Park,100000,Internship,3,"TensorFlow, Docker, pandas, Power BI, Tableau, Excel",Hybrid,2026-05-12
+Python Developer,Water Corporation,Hybrid - Perth,87000,Contract,2,"Excel, TensorFlow, Git",No,2026-01-04
+Machine Learning Engineer,ANZ Bank,Midland,107000,Part-time,6,"Docker, Excel, Hadoop, Git, NLP, REST APIs",Yes,2026-03-10
+Machine Learning Engineer,GovTech WA,Subiaco,98000,Contract,4,"Tableau, Excel, Machine Learning, MongoDB, pandas, Statistics",No,2026-03-05
+AI Engineer,Rio Tinto,Midland,121000,Contract,4,"Node.js, Agile, Deep Learning, MySQL, Power BI, Tableau",Hybrid,2026-04-08
+Graduate Data Analyst,KPMG,Bentley,66000,Internship,0,"scikit-learn, MongoDB, Statistics, Data Visualisation, JavaScript, Node.js",Hybrid,2026-02-21
+Software Engineer,GovTech WA,Hybrid - Perth,101000,Part-time,7,"PyTorch, scikit-learn, NumPy, Hadoop",No,2026-04-07
+Machine Learning Engineer,RAC WA,Perth CBD,134000,Casual,3,"TensorFlow, Power BI, REST APIs, Deep Learning, Data Visualisation, Git",Hybrid,2026-02-23
+Software Engineer,Murdoch University,Osborne Park,132000,Part-time,8,"Statistics, Spark, Excel, Data Visualisation, FastAPI",Hybrid,2026-03-19
+Junior Data Scientist,HBF,Midland,63000,Internship,1,"Tableau, Spark, MongoDB, FastAPI, PyTorch, Excel, MySQL, Node.js",Hybrid,2026-04-18
+Data Engineer,Woodside,Subiaco,82000,Part-time,7,"Spark, Communication, FastAPI, Git, Node.js",Hybrid,2026-04-01
+Data Scientist,Murdoch University,Subiaco,122000,Full-time,8,"SQL, REST APIs, JavaScript, R, Data Visualisation, PyTorch, scikit-learn",Yes,2026-03-08
+Junior Data Scientist,Small Tech Startup,Hybrid - Perth,72000,Internship,1,"Azure, Git, REST APIs, Spark, Data Visualisation, NLP, MySQL, TensorFlow",Yes,2026-03-30
+Data Analyst,Wesfarmers,Joondalup,112000,Contract,2,"NumPy, MongoDB, Agile",No,2026-03-29
+Software Engineer,Small Tech Startup,Bentley,131000,Full-time,5,"Azure, AWS, TensorFlow, Power BI",No,2026-01-12
+Graduate Data Analyst,ANZ Bank,Fremantle,59000,Internship,0,"Data Visualisation, scikit-learn, JavaScript",Yes,2026-05-22
+Data Scientist,Murdoch University,Midland,102000,Full-time,3,"MongoDB, MySQL, NLP, FastAPI, PyTorch, JavaScript, Machine Learning",Hybrid,2026-02-20
+Software Engineer,Woodside,Hybrid - Perth,119000,Full-time,8,"PyTorch, Python, Spark, Deep Learning, Statistics, pandas",Hybrid,2026-02-17
+Backend Developer,GovTech WA,Remote,101000,Contract,8,"MySQL, Power BI, pandas, R",Hybrid,2026-04-10
+Junior ML Engineer,KPMG,Hybrid - Perth,68000,Internship,2,"Power BI, TensorFlow, Communication, MySQL, Node.js, Machine Learning, R",Yes,2026-02-04
+Backend Developer,Telstra,Remote,88000,Casual,7,"NumPy, Power BI, Machine Learning, TensorFlow",No,2026-02-05
+Junior ML Engineer,RAC WA,Joondalup,68000,Casual,0,"Machine Learning, AWS, JavaScript, Git, Spark, Data Visualisation",No,2026-02-05
+Data Scientist,Commonwealth Bank,Midland,101000,Internship,3,"Node.js, SQL, Data Visualisation, TensorFlow, Python, AWS",Hybrid,2026-05-07
+Python Developer,HBF,Perth CBD,125000,Part-time,2,"MongoDB, Spark, Statistics, MySQL, AWS, Machine Learning",No,2026-01-09
+Machine Learning Engineer,Fortescue,Subiaco,95000,Internship,6,"NumPy, Machine Learning, Docker, MySQL, REST APIs, Hadoop, AWS",Yes,2026-03-10
+Graduate Data Analyst,RAC WA,Fremantle,73000,Casual,1,"Git, Statistics, Docker, SQL, Hadoop",Yes,2026-03-05
+Machine Learning Engineer,Woodside,Osborne Park,137000,Full-time,8,"MySQL, pandas, TensorFlow",Yes,2026-02-23
+Graduate Data Analyst,Commonwealth Bank,Fremantle,74000,Full-time,0,"TensorFlow, Data Visualisation, Spark, Node.js, JavaScript, MongoDB, Machine Learning, Statistics",Hybrid,2026-03-31
+Data Engineer,Fortescue,Subiaco,98000,Part-time,4,"Git, Machine Learning, scikit-learn, Spark, NumPy, FastAPI, REST APIs",No,2026-01-16
+Machine Learning Engineer,Deloitte,Midland,137000,Casual,8,"Tableau, Spark, Data Visualisation, Agile, NLP, Statistics, Communication, scikit-learn",Yes,2026-05-28
+Business Intelligence Analyst,Accenture,Bentley,98000,Casual,6,"MongoDB, PyTorch, MySQL, Excel, JavaScript, Docker, Statistics, Communication",No,2026-03-25
+Junior ML Engineer,UWA,Fremantle,55000,Casual,2,"Excel, Hadoop, MySQL, JavaScript, R, Spark, TensorFlow, Agile",Yes,2026-05-07
+Machine Learning Engineer,IBM,Perth CBD,101000,Full-time,5,"scikit-learn, Git, REST APIs, Tableau, Data Visualisation",Yes,2026-04-28
+Data Analyst,Telstra,West Perth,88000,Part-time,7,"MySQL, Python, MongoDB, Deep Learning",No,2026-01-24
+Business Intelligence Analyst,BHP,Midland,104000,Contract,3,"Excel, TensorFlow, R, Communication, JavaScript",Hybrid,2026-03-01
+Python Developer,GovTech WA,Subiaco,123000,Part-time,3,"Spark, Power BI, Python",Hybrid,2026-02-27
+Data Engineer,Telstra,Osborne Park,125000,Full-time,7,"Python, Agile, Spark, scikit-learn, Power BI, MongoDB",Yes,2026-04-09
+Junior Data Analyst,Telstra,Midland,58000,Part-time,1,"scikit-learn, TensorFlow, Communication",Hybrid,2026-02-06
+Junior Data Analyst,Telstra,Midland,72000,Internship,0,"Python, Node.js, JavaScript, Machine Learning, MySQL, TensorFlow, Hadoop",Hybrid,2026-04-24
+Full Stack Developer,Wesfarmers,Hybrid - Perth,94000,Casual,8,"Communication, Power BI, Tableau",No,2026-04-20
+Backend Developer,RAC WA,Hybrid - Perth,132000,Internship,3,"NLP, pandas, JavaScript, Excel",Hybrid,2026-03-14
+Graduate Data Analyst,BHP,Fremantle,56000,Casual,1,"Communication, NumPy, Deep Learning, Azure, Node.js, Statistics, Data Visualisation, PyTorch",No,2026-01-29
+Junior Data Scientist,Murdoch University,Bentley,71000,Internship,2,"Node.js, Excel, Azure, Python, TensorFlow, scikit-learn, Tableau, PyTorch",Hybrid,2026-02-14
+Graduate Data Analyst,Accenture,Fremantle,70000,Full-time,0,"Python, REST APIs, Excel",Yes,2026-04-12
+Data Engineer,RAC WA,Remote,99000,Internship,7,"Spark, Azure, Docker, MongoDB, Statistics, Agile, PyTorch, Excel",Yes,2026-03-13
+Junior Data Analyst,RAC WA,Bentley,65000,Casual,0,"Azure, Agile, Deep Learning",Hybrid,2026-01-17
+Machine Learning Engineer,Wesfarmers,Osborne Park,126000,Internship,5,"Hadoop, Data Visualisation, NLP, SQL, Communication, Excel",Hybrid,2026-01-15
+Machine Learning Engineer,ANZ Bank,Osborne Park,124000,Contract,2,"R, Hadoop, Machine Learning, Power BI, Python, Spark, Tableau, Docker",Hybrid,2026-05-13
+Graduate Data Analyst,Wesfarmers,Perth CBD,63000,Contract,1,"TensorFlow, Tableau, Hadoop, Docker",No,2026-03-11
+Data Engineer,Fortescue,Bentley,84000,Full-time,5,"Spark, REST APIs, JavaScript, Excel, AWS",No,2026-05-26
+Data Scientist,Wesfarmers,Fremantle,104000,Internship,6,"pandas, Docker, Power BI, Communication",Yes,2026-01-12
+Full Stack Developer,UWA,Joondalup,137000,Part-time,4,"NLP, SQL, AWS",Yes,2026-05-22
+Graduate Data Analyst,IBM,West Perth,69000,Full-time,2,"scikit-learn, NLP, MongoDB, Agile",Hybrid,2026-04-06
+Junior Data Analyst,Small Tech Startup,West Perth,71000,Contract,0,"Communication, SQL, Machine Learning, NLP, FastAPI, Azure, Agile, PyTorch",No,2026-01-23
+Data Engineer,KPMG,Hybrid - Perth,110000,Part-time,6,"TensorFlow, Deep Learning, NumPy",No,2026-04-05
+Junior ML Engineer,Telstra,Perth CBD,71000,Casual,0,"Hadoop, Communication, Git, Docker",Yes,2026-03-01
+Data Engineer,KPMG,Subiaco,103000,Part-time,8,"Statistics, Spark, Python, scikit-learn, Data Visualisation, Docker, R, PyTorch",Hybrid,2026-03-02
+Python Developer,BHP,Fremantle,112000,Internship,2,"Tableau, Spark, pandas",No,2026-04-06
+Software Engineer,UWA,Subiaco,129000,Internship,3,"REST APIs, Power BI, Azure",Hybrid,2026-01-16
+Python Developer,UWA,Bentley,123000,Contract,4,"NLP, NumPy, pandas, Data Visualisation",No,2026-03-11
+Junior Data Scientist,Wesfarmers,Joondalup,57000,Casual,0,"Tableau, Docker, REST APIs, Power BI",No,2026-03-22
+Python Developer,Wesfarmers,Subiaco,88000,Part-time,8,"TensorFlow, Docker, Deep Learning, MySQL, NumPy, Statistics, pandas",Hybrid,2026-03-19
+Full Stack Developer,Curtin University,Midland,126000,Internship,3,"Node.js, SQL, Deep Learning, Statistics, scikit-learn, Tableau, Excel, Spark",Yes,2026-03-18
+Machine Learning Engineer,RAC WA,Fremantle,134000,Full-time,6,"Python, PyTorch, Data Visualisation, MySQL",No,2026-01-27
+Graduate Data Analyst,Telstra,Fremantle,60000,Casual,0,"Python, SQL, Statistics",No,2026-01-22
+Junior ML Engineer,Small Tech Startup,Joondalup,74000,Full-time,2,"Agile, Statistics, Excel, Python, Deep Learning",No,2026-02-01
+Data Analyst,UWA,Osborne Park,110000,Full-time,5,"Machine Learning, Agile, REST APIs",No,2026-04-20
+Data Scientist,BHP,Hybrid - Perth,103000,Internship,3,"Agile, Machine Learning, pandas, MySQL",Hybrid,2026-03-04
