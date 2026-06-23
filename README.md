@@ -1,4 +1,4 @@
-# Job Listings Data Analyser — Perth, WA (2026)
+# Job Listings Data Analyser
 
 An exploratory data analysis (EDA) project examining the Perth tech job market to identify in-demand skills, salary trends, and hiring patterns.
 
